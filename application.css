@@ -1,0 +1,15 @@
+      h1 {
+          color: magenta;
+         }
+      #introduction {
+        color: orange;
+      }
+            #galleries li a {
+              color: green;
+            }
+            body {
+              font-size: 20px;
+            }
+            img {
+              border: 10px solid orange;
+            }
